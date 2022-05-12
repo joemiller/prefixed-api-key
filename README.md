@@ -1,6 +1,8 @@
 # prefixed-api-key
 
-TODO: badge for godoc
+[![Go Doc](https://pkg.go.dev/badge/github.com/joemiller/prefixed-api-key.svg)](https://pkg.go.dev/github.com/joemiller/prefixed-api-key)
+![go report card](https://goreportcard.com/badge/github.com/joemiller/prefixed-api-key)
+![github actions status](https://github.com/joemiller/prefixed-api-key/actions/workflows/main.yaml/badge.svg)
 
 Go implementation of [seamapi/prefixed-api-key](https://github.com/seamapi/prefixed-api-key).
 
